@@ -1,8 +1,13 @@
 Name:ARYA P P
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08FSQ
+
 Domain:SQL
+
 Duration:December 30th 2024 to January 30th 2025
+
 Mentor:NEELA SANTHOSH KUMAR
 
 
